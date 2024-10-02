@@ -1,25 +1,43 @@
-# Mi sitio personal 👋
+# Peter Miranda | petermiranda
 
+## Descripción
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 
 ## Contenido
 * [Información personal](#información-personal)
+* [Tecnologías y Herramientas](#tecnologías-y-herramientas)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Contacto](#contacto)
   
 ## Información personal
 * Nombre: Peter Miranda
 * Ocupación: Estudiante
 * Lugar de residencia: Guayas-Guayaquil
-* Sitio web: N/A
+* Sitio web: [petermiranda.github.io](https://petermiranda.github.io/petermiranda/)
+
+## Tecnologías y Herramientas
+
   
 ## Proyectos
-* [Analizador de lenguaje PHP](https://github.com/ChrisAcosta19/Analizador_PHP)
+### 2022
+* [Sistema de Agendado de Citas Médicas (Backend)](https://github.com/irvmgarz/POO-P2-G8)
+* [Sistema de Agendado de Citas Médicas (Frontend-Backend)](https://github.com/PeterMiranda/Proyecto-POO-PAR2)
 * [Sistema de gestión de Base de Datos](https://github.com/LastDaniels/ProjectBD)
+### 2023
+* [Pestaña de Perfil con el uso de Estructura de Datos](https://github.com/PeterMiranda/EdD-Proyecto-1Parcial)
+
+* [Juego "Tres-en-Ralla" con una inteligencia articial controlada por un arbol binario](https://github.com/PeterMiranda/TicTacTree-EDD2P)
+* [Analizador de lenguaje PHP](https://github.com/ChrisAcosta19/Analizador_PHP)
+* [Sistema de gestión de citas (Frontend-Backend)](https://github.com/ChrisAcosta19/LP-Grupo8-Parcial2)
+
   
 ## Intereses
-* Programación
+* 👨‍💻 Programación
+* Música
+  
+## Contacto
 
 
 <!--
