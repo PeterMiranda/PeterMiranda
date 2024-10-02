@@ -9,16 +9,17 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
   
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Peter Miranda
+* Ocupación: Estudiante
+* Lugar de residencia: Guayas-Guayaquil
+* Sitio web: N/A
   
 ## Proyectos
-* [Lista de tus proyectos]
+* [Analizador de lenguaje PHP](https://github.com/ChrisAcosta19/Analizador_PHP)
+* [Sistema de gestión de Base de Datos](https://github.com/LastDaniels/ProjectBD)
   
 ## Intereses
-* [Lista de tus intereses]
+* Programación
 
 
 <!--
