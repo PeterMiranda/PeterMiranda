@@ -27,7 +27,7 @@ proyectos y mis intereses.
 * [Sistema de gestión de Base de Datos](https://github.com/LastDaniels/ProjectBD)
 ### 2023
 * [Pestaña de Perfil con el uso de Estructura de Datos](https://github.com/PeterMiranda/EdD-Proyecto-1Parcial)
-
+### 2024
 * [Juego "Tres-en-Ralla" con una inteligencia articial controlada por un arbol binario](https://github.com/PeterMiranda/TicTacTree-EDD2P)
 * [Analizador de lenguaje PHP](https://github.com/ChrisAcosta19/Analizador_PHP)
 * [Sistema de gestión de citas (Frontend-Backend)](https://github.com/ChrisAcosta19/LP-Grupo8-Parcial2)
